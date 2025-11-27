@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Phantom AI",
+  "description": "A futuristic, smart medical assistant capable of analyzing symptoms, prescriptions, and medical questions using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
